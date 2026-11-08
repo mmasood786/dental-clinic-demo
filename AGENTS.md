@@ -1,6 +1,6 @@
 # Project: Dental clinic website (reusable template for QodeForge)
 
-Stack (do not add other libraries without asking): Next.js 15 App Router, TypeScript (strict), Tailwind CSS, Neon Postgres with Drizzle ORM, Zod, Resend (email), googleapis (Google Calendar), date-fns-tz.
+Stack (do not add other libraries without asking): Next.js 15 App Router, TypeScript (strict), Tailwind CSS, Zod, Resend (email), @calcom/embed-react, date-fns-tz.
 
 Rules:
 - All clinic-specific content (name, phone, address, hours, services, locations, social links, colors, WhatsApp number, Google Place ID, calendar ID) lives in ONE file: src/config/site.config.ts. No clinic data hardcoded in components, so the project can be reused for other clinics.

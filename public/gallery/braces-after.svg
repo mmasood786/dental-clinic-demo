@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F1F5F9"/>
+      <stop offset="1" stop-color="#FBFDFC"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="1010" cy="150" r="190" fill="#0F766E" opacity="0.08"/>
+  <circle cx="120" cy="790" r="150" fill="#0F766E" opacity="0.07"/>
+  <ellipse cx="600" cy="492" rx="330" ry="230" fill="#0F1F22" opacity="0.06"/>
+  <rect x="300" y="320" width="600" height="340" rx="190" fill="#8A4A52"/>
+  <rect x="340" y="360" width="520" height="260" rx="140" fill="#2B171A"/>
+  <rect x="389" y="390" width="422" height="52" rx="24" fill="#B96974"/>
+    <g transform="rotate(0 420 470)"><rect x="389" y="410" width="62" height="122" rx="20" fill="#FBF8EF" stroke="#D9C9A0" stroke-width="1.5"/></g>
+    <g transform="rotate(0 492 470)"><rect x="461" y="410" width="62" height="122" rx="20" fill="#FBF8EF" stroke="#D9C9A0" stroke-width="1.5"/></g>
+    <g transform="rotate(0 564 470)"><rect x="533" y="410" width="62" height="122" rx="20" fill="#FBF8EF" stroke="#D9C9A0" stroke-width="1.5"/></g>
+    <g transform="rotate(0 636 470)"><rect x="605" y="410" width="62" height="122" rx="20" fill="#FBF8EF" stroke="#0F766E" stroke-width="4"/></g>
+    <g transform="rotate(0 708 470)"><rect x="677" y="410" width="62" height="122" rx="20" fill="#FBF8EF" stroke="#D9C9A0" stroke-width="1.5"/></g>
+    <g transform="rotate(0 780 470)"><rect x="749" y="410" width="62" height="122" rx="20" fill="#FBF8EF" stroke="#D9C9A0" stroke-width="1.5"/></g>
+  <text x="60" y="84" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#5C7376">Illustration · not a patient photo</text>
+</svg>
